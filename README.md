@@ -14,3 +14,16 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Notes
+
+### Types of Widgets
+
+Invisible Widgets: used to build our app. It works like any other structure lib.
+e.i: Row(), Column(), ListView()
+
+Visible Widgets: widgets that render UI elements that user can interact and see
+
+### Refactor Stateless to Statefull
+
+CTRL + SHIFT + R
